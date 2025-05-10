@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kevin Na—a Computer Science major at the University of Michigan with a passion for AI, HCI, robotics, and socially impactful computing.<br><br>🤝 Looking to Collaborate On<br>- Human-Centered AI & content-moderation tools  <br>- Robotics projects <br><br>📚 Currently Learning<br>- ROS2 topics/services/actions & simulation pipelines  <br>- Web Development & FastAPI<br>
+👋 Hi, I’m Kevin Na—currently an undergraduate student pursuing a degree in Computer Science at the University of Michigan with a passion for AI, HCI, robotics, and socially impactful computing.<br><br>🤝 Looking to Collaborate On<br>- Human-Centered AI & content-moderation tools  <br>- Robotics projects <br><br>📚 Currently Learning<br>- ROS2 topics/services/actions & simulation pipelines  <br>- Web Development & FastAPI<br>
 
 
 # 💻 Tech Stack:
