@@ -8,7 +8,7 @@
 - Yun Jong Na (kevinyjn@umich.edu)  
 
 **Description:**  
-A classification pipeline that leverages in-game metrics at the 25-minute mark to predict League of Legends match outcomes. We process ~9,800 matches (two team-level records each) from OraclesElixir, clean and engineer features, then compare logistic regression variants to find the optimal sparse model.
+A classification pipeline that leverages in-game metrics at the 25-minute mark to predict League of Legends match outcomes. We process ~9,800 matches (two team-level records each) from OraclesElixir, clean and engineer features, then compare logistic regression variants to find the optimal model.
 
 **Key Highlights:**
 - **Baseline Logistic Regression:** 81.25% test accuracy, ROC-AUC 0.8976  
