@@ -11,7 +11,7 @@
   - Clean data pipelines built with Pandas and NumPy
 - **Tech Stack:** Python · pandas · NumPy · scikit-learn · Plotly
 - **Live Demo:** [League of Legends Analysis](https://mrtuge123.github.io/League_of_Legends_Analysis/)
-- **Source Code:** [View on Github]([https://github.com/kevinyjn1/League_of_Legends_Analysis](https://github.com/MrTuge123/League_of_Legends_Analysis))
+- **Source Code:** [View on Github](https://github.com/MrTuge123/League_of_Legends_Analysis)
 
 
 # 💻 Tech Stack:
