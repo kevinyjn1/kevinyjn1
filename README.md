@@ -2,7 +2,8 @@
 👋 Hi, I’m Kevin Na—currently an undergraduate student pursuing a degree in Computer Science at the University of Michigan with a passion for AI, HCI, and robotics. I love learning by doing and I am constantly trying to improve myself. <br><br>🤝 Looking to Collaborate On<br>- Human-Centered AI <br>- Robotics projects <br><br>📚 Currently Learning<br>- [ROS2](https://docs.google.com/document/d/1Un3GLVon_t6Gw67EyoRaKqpBHlRjW23bNoVX27nMqcQ/edit?tab=t.0#heading=h.g150i5k53fvo) topics/services/actions & simulation pipelines  
 <br> 🏆 Proud Projects
 <br>- [Checkpoint Champion – Predicting Winners at 25](https://mrtuge123.github.io/League_of_Legends_Analysis/)<br>
-
+<br>- [HydroSense](https://github.com/saideepk444/HydroSense)<br>
+<br>- [AmbientMNIST](https://github.com/kevinyjn1/AmbientMNIST)<br>
 
 
 # 💻 Tech Stack:
